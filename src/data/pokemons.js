@@ -1,0 +1,23 @@
+export const pokemons = [
+    { id: 1, name: '이상해씨', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png' },
+    { id: 2, name: '이상해풀', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png' },
+    { id: 3, name: '이상해꽃', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png' },
+    { id: 4, name: '파이리', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png' },
+    { id: 5, name: '리자드', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png' },
+    { id: 6, name: '리자몽', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png' },
+    { id: 7, name: '꼬부기', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png' },
+    { id: 8, name: '어니부기', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png' },
+    { id: 9, name: '거북왕', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png' },
+    { id: 10, name: '피카츄', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png' },
+    { id: 11, name: '라이츄', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png' },
+    { id: 12, name: '식스', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png' },
+    { id: 13, name: '파라스', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png' },
+    { id: 14, name: '파라섹트', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png' },
+    { id: 15, name: '알통몬', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png' },
+    { id: 16, name: '근육몬', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png' },
+    { id: 17, name: '괴력몬', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png' },
+    { id: 18, name: '발챙이', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png' },
+    { id: 19, name: '수륙챙이', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png' },
+    { id: 20, name: '강챙이', image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png' },
+  ];
+  
